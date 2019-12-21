@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app
+  xmlns:web="http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
+  id="finderbar-platform-provider" version="2.5">
+
+	<display-name>Finderbar Community App</display-name>
+	<description>Finderbar AngularJS UI.</description>
+
+</web-app>
