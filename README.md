@@ -4,5 +4,12 @@
 - ENCRYPTION(salt, iv apiSerect, plaintext)
 - DECRYTION(salt, iv apiSerect, decryptText)
 
+
+take a look how does it work?
+
+see below figure!
+
+thanks
+
 ![Request Figure](https://githubresources.s3.amazonaws.com/reqest.png)
 
