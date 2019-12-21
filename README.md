@@ -1,3 +1,11 @@
+# INSTALLATION GUID
+- node
+- npm
+- angular-cli
+
+# COMMAND
+- ng serve
+
 # REST API SECURITY
 - HAMC512 & AES
 - AUTHORIZATION(algorithm, apiKey, nonce, signature )
